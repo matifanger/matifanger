@@ -29,6 +29,8 @@
 <br />
 
 ### Resume and blog:
+[My Website][website]
+<br />
 [My CV/Resume][resume]
 <br />
 [Medium blog (WIP)][medium]
