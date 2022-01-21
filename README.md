@@ -10,7 +10,7 @@
 [<img align="left" alt="matifanger.dev" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="matifanger | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="matifanger | Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
-[<img align="left" alt="matifanger | Outlook"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />][website]
+[<img align="left" alt="matifanger | Outlook"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />][email]
 [<img align="left" alt="matifanger | Twitter"  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 
 <br />
@@ -34,6 +34,7 @@
 [Medium blog (WIP)][medium]
 <br />
 
+[email]: mailto:matifanger@outlook.com
 [website]: https://matifanger.dev
 [resume]: https://amplify-amplify1ffee8250a8b4-staging-84023-deployment.s3.us-east-2.amazonaws.com/CV+MATIAS+IVAN+FANGER+ENG.pdf
 [medium]: https://matifanger.medium.com/
