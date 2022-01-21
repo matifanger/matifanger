@@ -38,7 +38,7 @@
 
 [email]: mailto:matifanger@outlook.com
 [website]: https://matifanger.dev
-[resume]: https://amplify-amplify1ffee8250a8b4-staging-84023-deployment.s3.us-east-2.amazonaws.com/CV+MATIAS+IVAN+FANGER+ENG.pdf
+[resume]: https://drive.google.com/file/d/1WmrjHfjrHsh4f5yvJ_CR6JlFL-CmRG4I/view?usp=sharing
 [medium]: https://matifanger.medium.com/
 [twitter]: https://twitter.com/matifanger
 [linkedin]: https://linkedin.com/in/matifanger
