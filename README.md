@@ -16,14 +16,34 @@
 <br />
 
 ### Languages and Tools:
+· Javascript
+· Nuxt
+· Vue.js
+· Vuex
+· Tailwind CSS
+· Vuetify
+· Node.js
+· Express.js
+· Firebase
+· MongoDB
+· PostgreSQL
+· GraphQL
+· AWS
+· Netlify
+· Git
+· REST
+· Python
+· HTML
+· CSS
+· Strapi
 
-<img align="left" alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-<img align="left" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
-<img align="left" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="left" alt="Nuxt" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+Learning:
+· React
+· Redux
+· Next
+· Docker
+
+Portfolio: https://matifanger.dev/
 
 <br />
 <br />
