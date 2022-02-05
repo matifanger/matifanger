@@ -16,6 +16,7 @@
 <br />
 
 ### Languages and Tools:
+<p style="text-align:center">
 · Javascript
 · Nuxt
 · Vue.js
@@ -42,6 +43,7 @@ Learning:
 · Redux
 · Next
 · Docker
+ </p>
 
 Portfolio: https://matifanger.dev/
 
