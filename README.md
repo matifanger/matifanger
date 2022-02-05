@@ -46,10 +46,7 @@ Learning:
  </p>
 
 Portfolio: https://matifanger.dev/
-
 <br />
-<br />
-
 ### Resume and blog:
 [My Website][website]
 <br />
