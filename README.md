@@ -5,7 +5,7 @@
 - 👀 I’m interested in a full time job
 - 🌱 I’m currently learning Vuejs but open to learn anything else
 
-### If you have some project in mind talk to me:
+### Talk to me:
 
 [<img align="left" alt="matifanger.dev" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="matifanger | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
