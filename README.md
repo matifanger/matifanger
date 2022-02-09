@@ -52,7 +52,7 @@ Portfolio: https://matifanger.dev/
 <br />
 [My CV/Resume][resume]
 <br />
-[Medium blog (WIP)][medium]
+[Medium blog][medium]
 <br />
 
 [email]: mailto:matifanger@outlook.com
