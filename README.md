@@ -2,8 +2,7 @@
 
 ## I'm a Full Stack Developer!
 - 👋 Hi, I’m @matifanger
-- 👀 I’m interested in a full time job
-- 🌱 I’m currently learning Vuejs but open to learn anything else
+- 👀 Currently, I have a full time job.
 
 ### Talk to me:
 
