@@ -1,5 +1,7 @@
 ### Hello, Universe! I'm Matias from Argentina. [My website.][website]
 
+<img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
+
 ## I'm a Full Stack Developer!
 - 👋 Hi, I’m @matifanger
 - 👀 Currently, I have a full time job.
