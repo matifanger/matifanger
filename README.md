@@ -18,6 +18,7 @@
 
 ### Languages and Tools:
 <p style="text-align:center">
+· Typescript
 · Javascript
 · Nuxt
 · Vue.js
