@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Developer!
 - 👋 Hi, I’m @matifanger
-- 👀 Currently, I have a full time job.
+- 👀 Currently, I have a full time job as Frontend Developer.
 
 ### Talk to me:
 
@@ -20,11 +20,13 @@
 <p style="text-align:center">
 · Typescript
 · Javascript
-· Nuxt
-· Vue.js
-· Vuex
+· Nuxt 2/3
+· Vue.js 2/3
+· Pinia/Vuex
 · Tailwind CSS
 · Vuetify
+· HTML
+· CSS / PostCSS
 · Node.js
 · Express.js
 · Firebase
@@ -36,15 +38,12 @@
 · Git
 · REST
 · Python
-· HTML
-· CSS
 · Strapi
 
 Learning:
 · React
-· Redux
 · Next
-· Docker
+· Redux
  </p>
 
 Portfolio: https://matifanger.dev/
