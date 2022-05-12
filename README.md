@@ -56,10 +56,10 @@ Portfolio: https://matifanger.dev/
 [Medium blog][medium]
 <br />
 
+[linkedin]: https://linkedin.com/in/matifanger
+[whatsapp]: https://wa.link/aq1xfn
 [email]: mailto:matifanger@outlook.com
 [website]: https://matifanger.dev
 [resume]: https://drive.google.com/file/d/1WmrjHfjrHsh4f5yvJ_CR6JlFL-CmRG4I/view?usp=sharing
 [medium]: https://matifanger.medium.com/
 [twitter]: https://twitter.com/matifanger
-[linkedin]: https://linkedin.com/in/matifanger
-[whatsapp]: https://wa.link/aq1xfn
