@@ -59,4 +59,4 @@ Portfolio: https://matifanger.dev/
 [email]: mailto:matifanger@outlook.com
 [website]: https://matifanger.dev
 [resume]: https://drive.google.com/file/d/1WmrjHfjrHsh4f5yvJ_CR6JlFL-CmRG4I/view?usp=sharing
-[medium]: https://matifanger.medium.com/
+
