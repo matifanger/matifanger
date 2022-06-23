@@ -36,7 +36,6 @@
 · Git
 · REST
 · Python
-· Strapi
 
 Learning:
 · React
