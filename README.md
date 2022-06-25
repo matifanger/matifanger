@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Developer!
 - 👋 Hi, I’m @matifanger
-- 👀 Currently, I have a full time job as Frontend Developer.
+- 👀 Currently, I have a full time job as Frontend Developer
 
 ### Talk to me:
 
