@@ -1,4 +1,4 @@
-Hi 👋 My name is Matias Fanger
+Hi 👋 My name is Matias Fanger <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
 ==============================
 
 Software Engineer
