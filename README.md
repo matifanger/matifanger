@@ -6,13 +6,19 @@ Software Engineer
 
 Working with Vue is my passion. I LOVE IT.
 
-*   🌍  I'm based in Argentina
-*   🖥️  See my portfolio at [matifanger.dev](http://matifanger.dev)
-*   ✉️  You can contact me at [matifanger@outlook.com](mailto:matifanger@outlook.com)
-*   🚀  I'm currently working on [SpeechTaker.com](http://https://speechtaker.com/)
-*   🤝  I'm open to collaborating on Interesting projects<a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+* 🌍  I'm based in Argentina
+* 🖥️  See my portfolio at [matifanger.dev](http://matifanger.dev)
+* ✉️  You can contact me at [matifanger@outlook.com](mailto:matifanger@outlook.com)
+* 🚀  I'm currently working on [SpeechTaker.com](http://https://speechtaker.com/)
+* 🤝  I'm open to collaborating on Interesting projects
+
+<a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -27,15 +33,14 @@ Working with Vue is my passion. I LOVE IT.
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-                    
+
+
 ### Socials
 
+<p align="left"> <a href="https://www.github.com/matifanger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matifanger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<p align="left">
-<a href="https://www.github.com/matifanger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+### Badges
 
-<a href="https://www.linkedin.com/in/matifanger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<b>My GitHub Stats</b>
 
-<a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-href="http://www.github.com/matifanger"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=matifanger&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/matifanger"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matifanger&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
