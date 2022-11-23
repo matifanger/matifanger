@@ -8,7 +8,7 @@ Working with Vue is my passion. I LOVE IT.
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [matifanger.dev](http://matifanger.dev)
-* ✉️  You can contact me at [matifanger@outlook.com](mailto:matifanger@outlook.com)
+* ✉️  You can contact me at [matifanger@outlook.com](mailto:matifanger@outlook.com) or [whatsapp](https://wa.link/aq1xfn)
 * 🚀  I'm currently working on [SpeechTaker.com](http://https://speechtaker.com/)
 * 🤝  I'm open to collaborating on Interesting projects
 
