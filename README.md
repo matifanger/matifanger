@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [matifanger.dev](http://matifanger.dev)
-* ✉️  You can contact me at [matifanger@outlook.com](mailto:matifanger@outlook.com) or [whatsapp](https://wa.link/aq1xfn)
+* ✉️  You can contact me at [WhatsApp](https://wa.link/aq1xfn) or [matifanger@outlook.com](mailto:matifanger@outlook.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
