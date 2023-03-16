@@ -9,9 +9,9 @@ Software Engineer
 * ✉️  You can contact me at [WhatsApp](https://wa.link/aq1xfn) or [matifanger@outlook.com](mailto:matifanger@outlook.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
-<a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a> -->
 
 ### Skills
 
