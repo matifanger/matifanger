@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 
 
 <p align="left">
-  Nuxt 2/3, Typescript, TailwindCSS, Python, NodeJS, Firebase
+  Typescript, Nuxt 2/3, Vuex, Pinia, TailwindCSS, Vuetify, Python, NodeJS, Firebase
 
 </p>
 
