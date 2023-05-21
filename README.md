@@ -1,7 +1,7 @@
 Hi 👋 My name is Matias Fanger <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
 ==============================
 
-Software Engineer
+FullStack SSR Vue developer
 -----------------
 
 * 🌍  I'm based in Argentina
@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 
 
 <p align="left">
-  Typescript, Nuxt 2/3, Vuex, Pinia, TailwindCSS, Vuetify, Python, NodeJS, Firebase
+  Typescript, Vue, Nuxt 2/3, Vuex, Pinia, TailwindCSS, Vuetify, Python, NodeJS, Firebase
 
 </p>
 
