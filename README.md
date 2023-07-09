@@ -17,14 +17,12 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 
 
 <p align="left">
-  Typescript, Vue, Nuxt 2/3, Vuex, Pinia, TailwindCSS, Vuetify, Python, NodeJS, Firebase
-
+•	Languages: JavaScript/TypeScript, Python
+•	Tools: Vue.js, Nuxt, Nest.js, Node.js, Tailwind, Vuex, Pinia, Vuetify, Headless UI, VueUse
+•	Systems: Git, Amazon Web Services (AWS), Google Cloud, PostgreSQL, Firebase, Docker, Netlify, Linux, OpenAI
+•	Roles: Frontend, Backend, Full-Stack
+•	Language: Native Spanish, English B1
 </p>
-
-
-### Socials
-
-<a href="https://www.linkedin.com/in/matifanger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
