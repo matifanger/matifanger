@@ -1,7 +1,7 @@
 Hi 👋 My name is Matias Fanger <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
 ==============================
 
-FullStack SSR Vue developer
+Software Engineer
 -----------------
 
 * 🌍  I'm based in Argentina
@@ -15,7 +15,6 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 
 ### Skills
 
-
 <p align="left">
 •	Languages: JavaScript/TypeScript, Python<br/>
 •	Tools: Vue.js, Nuxt, Nest.js, Node.js, Tailwind, Vuex, Pinia, Vuetify, Headless UI, VueUse<br/>
@@ -24,8 +23,6 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 •	Language: Native Spanish, English B1
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/matifanger"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matifanger&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
