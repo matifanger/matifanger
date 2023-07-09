@@ -17,10 +17,10 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 
 
 <p align="left">
-•	Languages: JavaScript/TypeScript, Python
-•	Tools: Vue.js, Nuxt, Nest.js, Node.js, Tailwind, Vuex, Pinia, Vuetify, Headless UI, VueUse
-•	Systems: Git, Amazon Web Services (AWS), Google Cloud, PostgreSQL, Firebase, Docker, Netlify, Linux, OpenAI
-•	Roles: Frontend, Backend, Full-Stack
+•	Languages: JavaScript/TypeScript, Python<br/>
+•	Tools: Vue.js, Nuxt, Nest.js, Node.js, Tailwind, Vuex, Pinia, Vuetify, Headless UI, VueUse<br/>
+•	Systems: Git, Amazon Web Services (AWS), Google Cloud, PostgreSQL, Firebase, Docker, Netlify, Linux, OpenAI<br/>
+•	Roles: Frontend, Backend, Full-Stack<br/>
 •	Language: Native Spanish, English B1
 </p>
 
