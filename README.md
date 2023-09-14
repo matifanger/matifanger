@@ -16,11 +16,13 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 ### Skills
 
 <p align="left">
-•	Languages: JavaScript/TypeScript, Python<br/>
-•	Tools: Vue.js, Nuxt, Nest.js, Node.js, Tailwind, Vuex, Pinia, Vuetify, Headless UI, VueUse<br/>
-•	Systems: Git, Amazon Web Services (AWS), Google Cloud, PostgreSQL, Firebase, Docker, Netlify, Linux, OpenAI<br/>
+•	Programming Languages: JavaScript, TypeScript, Python<br/>
+•	Frontend: Vue.js 2/3, Nuxt.js, Tailwind, Vuetify, Vuex, Pinia, HTML, JSON, CSS<br/>
+•	Backend: Nest.js, Node.js, Express<br/>
+•	Database Systems: Firebase, PostgreSQL, MongoDB<br/>
+•	Tools and Systems: Git, BitBucket, Amazon Web Services, Google Cloud, Docker, Netlify, Linux, OpenAI, Postman<br/>
 •	Roles: Frontend, Backend, Full-Stack<br/>
-•	Language: Native Spanish, English B1
+• Languages: Spanish, English
 </p>
 
 ### GitHub Stats
