@@ -16,14 +16,13 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 ### Skills
 
 <p align="left">
-• Languages: Spanish, English<br/>
-•	Roles: Frontend, Backend, Full-Stack<br/>
-•	Languages: JavaScript, TypeScript, Python, PHP, English, Spanish<br/>
-•	Frontend: Vue.js 2/3, React.js, React Native, Nuxt.js, Next.js, Tailwind CSS, Vuetify, Bootstrap, HTML<br/>
-•	Backend: Nest.js, Node.js, Express, Symfony, REST API’s, JSON<br/>
+•	Programming Languages: JavaScript, TypeScript, PHP, Python<br/>
+•	Frontend: Vue.js 2/3, React.js, Nuxt.js, Next.js, Tailwind, Vuetify, Bootstrap, Vuex, Pinia, HTML, JSON, CSS<br/>
+•	Backend: Nest.js, Node.js, Express, Symfony<br/>
 •	Database Systems: Firebase, MySQL, PostgreSQL, MongoDB, MariaDB<br/>
-•	Tools and Systems: Jira, Trello, Git, AWS, Google Cloud, Docker, Linux, OpenAI, Postman, XAMP
-
+•	Tools and Systems: Jira, Trello, Git, AWS, Google Cloud, Docker, Netlify, Linux, OpenAI, Postman<br/>
+•	Roles: Frontend, Backend, Full-Stack<br/>
+•	Languages: English, Spanish
 </p>
 
 ### GitHub Stats
