@@ -1,7 +1,7 @@
 Hi 👋 My name is Matias Fanger <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
 ==============================
 
-Software Engineer
+Full Stack Developer
 -----------------
 
 * 🌍  I'm based in Argentina
@@ -13,8 +13,10 @@ Software Engineer
 src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a> -->
 
-### Skills
+### For Coding Services SEND DM
+https://t.me/matifanger
 
+### Skills
 <p align="left">
 • Programming Languages: JavaScript, TypeScript, PHP<br/>
 • Frontend: Vue.js, Nuxt.js, Tailwind CSS<br/>
