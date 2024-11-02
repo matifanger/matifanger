@@ -6,7 +6,6 @@ Full Stack Developer
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [matifanger.dev](http://matifanger.dev)
-* ✉️  You can contact me at [WhatsApp](https://wa.link/aq1xfn) or [matifanger@outlook.com](mailto:matifanger@outlook.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
 <!-- <a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
@@ -14,17 +13,18 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 /></a> -->
 
 # ✉ For Coding Services SEND DM ✉
-https://t.me/matifanger 
+You can contact me at [WhatsApp](https://wa.link/aq1xfn) or [Telegram](https://t.me/matifanger) or [matifanger@outlook.com](mailto:matifanger@outlook.com)
 
 ### Skills
 <p align="left">
 • Programming Languages: JavaScript, TypeScript, PHP<br/>
 • Frontend: Vue.js, Nuxt.js, Tailwind CSS<br/>
-• Backend: Nest.js, Symfony<br/>
+• Backend: Nest.js, PHP, Symfony, Python<br/>
 • Databases: PostgreSQL, Firebase<br/>
 • Tools and Systems: Jira, Trello, Git, Docker, Linux<br/>
 • Roles: Frontend, Backend, Full-Stack<br/>
 • Languages: English, Spanish<br/>
+
 </p>
 
 ### GitHub Stats
