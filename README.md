@@ -2,8 +2,6 @@ Hi 👋 i'm matifanger <img src="https://komarev.com/ghpvc/?username=matifanger&
 ==============================
 
 ## Full Stack Developer
------------------
-
 * 🌍  Based in Argentina
 * 🖥️  See my portfolio at [matifanger.dev](http://matifanger.dev)
 * 🤝  Open to collaborating on Interesting projects and full-time jobs
