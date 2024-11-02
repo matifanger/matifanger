@@ -1,12 +1,11 @@
-Hi 👋 My name is Matias Fanger <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
+Hi 👋 i'm matifanger <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
 ==============================
 
 Full Stack Developer
------------------
 
-* 🌍  I'm based in Argentina
+* 🌍  Based in Argentina
 * 🖥️  See my portfolio at [matifanger.dev](http://matifanger.dev)
-* 🤝  I'm open to collaborating on Interesting projects
+* 🤝  Open to collaborating on Interesting projects and full-time jobs
 
 <!-- <a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -24,7 +23,6 @@ You can contact me at [WhatsApp](https://wa.link/aq1xfn) or [Telegram](https://t
 • Tools and Systems: Jira, Trello, Git, Docker, Linux<br/>
 • Roles: Frontend, Backend, Full-Stack<br/>
 • Languages: English, Spanish<br/>
-
 </p>
 
 ### GitHub Stats
