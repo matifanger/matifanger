@@ -11,7 +11,7 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 /></a> -->
 
 ## ✉ For Coding Services SEND DM ✉
-You can contact me at [WhatsApp](https://wa.link/aq1xfn) or [Telegram](https://t.me/matifanger) or [matifanger@outlook.com](mailto:matifanger@outlook.com)
+You can contact me at [WhatsApp](https://wa.link/aq1xfn) or [matifanger@outlook.com](mailto:matifanger@outlook.com)
 
 ### Skills
 <p align="left">
