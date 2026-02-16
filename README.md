@@ -9,24 +9,43 @@
 
 ---
 
-> Working with open source, building fast prototypes, and shipping practical solutions are at the core of how I like to develop software.
+> Working with open/closed source, building fast prototypes, and shipping practical solutions are at the core of how I like to develop software.
 
 ---
 
-### 🔒 Closed Source
-🎮 [BestGaming.com.ar](https://bestgaming.com.ar) – High-performance gaming platform focused on automation and scalable infrastructure.  
-🧠 [DevKitHub.com](https://devkithub.com) – Developer tools ecosystem and experimental SaaS utilities.
+### Closed Source
+
+🎮 [BestGaming.com.ar](https://bestgaming.com.ar) – Argentina gaming search engine and price aggregator  
+🧠 [DevKitHub.com](https://devkithub.com) – Offline dev toolkit with 50+ tools, privacy focused  
+⚙️ [xEnhancer.com](https://www.xenhancer.com/) – Browser extension enhancing the X/Twitter web experience  
 
 ---
 
-### 🌍 Open Source
-🐳 [docker-core-monitor](https://github.com/matifanger/docker-core-monitor) – Real-time Docker container monitoring dashboard with WebSockets.  
-💰 [crypto-replacer](https://github.com/matifanger/crypto-replacer) – Clipboard watcher that replaces cryptocurrency addresses automatically.  
-🌐 [portfolio-v2](https://github.com/matifanger/portfolio-v2) – Personal portfolio built with Vue and Nuxt.  
-⚡ [nuxt3-template-basic](https://github.com/matifanger/nuxt3-template-basic) – Clean minimal starter template for Nuxt 3 apps.  
-🔥 [nuxt3-template-firebase](https://github.com/matifanger/nuxt3-template-firebase) – Nuxt 3 template with Firebase authentication and backend integration.
+### Open Source
+
+🚀 [PresuGenBot](https://github.com/matifanger/PresuGenBot) – AI-powered budget generation bot  
+🐳 [docker-core-monitor](https://github.com/matifanger/docker-core-monitor) – Real-time Docker monitoring dashboard  
+📈 [greedorfear](https://github.com/matifanger/greedorfear) – Crypto Fear & Greed tracker  
+⚡ [fake-it-til-you-git](https://github.com/matifanger/fake-it-til-you-git) – CLI for generating git history  
+📊 [simple-docker-monitor](https://github.com/matifanger/simple-docker-monitor) – Lightweight Docker monitor  
+🔥 [ultimate-saas-boilerplates](https://github.com/matifanger/ultimate-saas-boilerplates) – SaaS starter templates collection  
+💾 [fast-SFTP-backup](https://github.com/matifanger/fast-SFTP-backup) – Fast SFTP backup utility  
+🧱 [nuxt-starter](https://github.com/matifanger/nuxt-starter) – Minimal Nuxt starter template  
+⚡ [nuxt3-template-basic](https://github.com/matifanger/nuxt3-template-basic) – Minimal Nuxt 3 starter  
+🔥 [nuxt3-template-firebase](https://github.com/matifanger/nuxt3-template-firebase) – Nuxt 3 + Firebase template  
+🛰 [ip-logger](https://github.com/matifanger/ip-logger) – IP logging tool  
+🧩 [mine-mods-sync](https://github.com/matifanger/mine-mods-sync) – Minecraft mods sync tool  
+💰 [crypto-replacer](https://github.com/matifanger/crypto-replacer) – Crypto clipboard replacer  
+🌐 [portfolio-v2](https://github.com/matifanger/portfolio-v2) – Personal portfolio (Vue/Nuxt)  
+🎮 [csgo-config-manager](https://github.com/matifanger/csgo-config-manager) – CSGO config manager  
+🎁 [csgo-cases-manager](https://github.com/matifanger/csgo-cases-manager) – CSGO cases manager  
+📝 [CommentsBeautify](https://github.com/matifanger/CommentsBeautify) – Code comment formatter  
+🔒 [protectedbookmarks](https://github.com/matifanger/protectedbookmarks) – Secure bookmark manager  
+🌐 [freeproxy](https://github.com/matifanger/freeproxy) – Proxy utility project  
+🤝 [axie-partners](https://github.com/matifanger/axie-partners) – Axie-related project  
 
 ---
+
 
 ### 📊 GitHub Stats
 <a href="http://www.github.com/matifanger">
