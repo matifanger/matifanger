@@ -10,7 +10,6 @@
 
 🎮 [BestGaming.com.ar](https://bestgaming.com.ar) – Argentina gaming search engine and price aggregator  
 🧠 [DevKitHub.com](https://devkithub.com) – Offline dev toolkit with 50+ tools, privacy focused  
-⚙️ [xEnhancer.com](https://www.xenhancer.com/) – Browser extension enhancing the X/Twitter web experience  
 
 
 ## Open Source
